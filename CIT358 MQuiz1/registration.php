@@ -31,6 +31,7 @@
 		<legend>Account Information</legend>
 		<label></label>Username: <input type="text" name="uname" /><br />
 		<label></label>Email: <input type="text" name="email" /><br />
+		<label></label>Confirm Email: <input type="text" name="c_email" /><br />
 		<label></label>Password: <input type="password" name="pass" /><br />
 		<label></label>Confirm Password: <input type="password" name="cpass" />
 	</fieldset>
