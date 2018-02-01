@@ -37,6 +37,7 @@
 	<fieldset>
 		<legend>User Information</legend>
 		<label></label>First Name: <input type="text" name="fname" /><br />
+		<label></label>Middle Name: <input type="text" name="mname" /><br />
 		<label></label>Last Name: <input type="text" name="lname" /><br />
 		<label></label>Contact Number: <input type="text" name="contact" /><br />
 		<label></label>Address: <textarea rows="2" cols="20" name="address" ></textarea><br />
